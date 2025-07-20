@@ -45,6 +45,6 @@ Este es un juego estilo arcade en consola hecho en C++, que simula dos niveles d
 
 ## Autor
 
-Creado por **Matt Silva** como proyecto de aprendizaje en C++.
+Matt Silva - Estudiante de Ciencias de la Cumputacion en la UPC (Universidad de Ciencias Peruanas)
 
 ---
